@@ -1,6 +1,6 @@
 # Primeira Quest - HTML e CSS avançado
 Projeto consiste em aplicar os conceitos de html e css para criar página baseado num desafio do FrontEnd Mentor.
-## Tecnologias utlizadas
+## Tecnologias utilizadas
 - HTML5
 - CSS3
 ## Objetivos
